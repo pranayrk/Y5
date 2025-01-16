@@ -14,3 +14,8 @@
 .reveal em {
 	text-decoration: underline;
 }
+
+.reveal h1 {
+	font-size: 250px;
+	border: 4px solid black;
+}
